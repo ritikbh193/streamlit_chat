@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Load API key from environment variable or directly
-google_api_key = 'AIzaSyD_y5Os72XvFWsDM7ZqK2OQ9l7-Ps9B_co'
+google_api_key = 'insert your api key here'
 
 # Initialize the model
 llm = ChatGoogleGenerativeAI(
